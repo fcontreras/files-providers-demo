@@ -1,16 +1,12 @@
 # proveedores_de_archivos
 
-A new Flutter project.
+Aplicación de Flutter que se conecta con google drive para listar archivos y descargarlos.
+Este demo fué creado para la [charla de File Providers](https://www.youtube.com/watch?v=1Ky53hjvH8U) de [Flutter Guatemala](https://www.youtube.com/c/FlutterGuatemala).
 
-## Getting Started
+## En resumen
 
-This project is a starting point for a Flutter application.
+La aplicación utiliza las librerias de GoogleAPI y GoogleAuth para conectarse con Google Drive, tambien requiere una cuenta de Firebase y que se agregue el archivo google-services.json al proyecto para que funcione.
 
-A few resources to get you started if this is your first Flutter project:
+Nuevamente, pueden ver más detalles en [la charla](https://www.youtube.com/watch?v=1Ky53hjvH8U)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Happy Coding!
